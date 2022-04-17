@@ -1,0 +1,59 @@
+[
+	{
+		"id": 1,
+		"gambar": "product-images/Gambarkatalog6.jpg",
+		"name": "Baju Keluarga",
+		"price": "200.000",
+		"ukuran": "L",
+		"warna": "Biru, merah,kuning",
+		"email":"admin@jualanbaju.com",
+    	"Phone": "123456789",
+    	"Address": "Jl. Seokarno Hatta No.4 Balikpapan"
+
+	},
+	{
+		"id": 2,
+		"gambar": "product-images/Gambarkatalog7.jpg",
+		"name": "Baju Muslim Keluarga Kekinian",
+		"price": "380.000",
+		"ukuran": "M",
+		"warna": "Hitam , Coklat , Cream",
+		"email":"admin@jualanbaju.com",
+    	"Phone": "123456789",
+    	"Address": "Jl. Seokarno Hatta No.4 Balikpapan"
+	},
+	{
+		"id": 3,
+		"gambar": "product-images/Gambarkatalog8.jpg",
+		"name": "Baju Muslim Model 1",
+		"price": "149.000",
+		"ukuran": "XXL",
+		"warna": "Hijau , abu-abu, cream",
+		"email":"admin@jualanbaju.com",
+    	"Phone": "123456789",
+    	"Address": "Jl. Seokarno Hatta No.4 Balikpapan"
+	},
+	{
+		"id": 4,
+		"gambar": "product-images/Gambarkatalog9.jpg",
+		"name": "Baju Muslim Syariah",
+		"price": "250.000",
+		"ukuran": "M",
+		"warna": "Kuning , merah , oren",
+		"email":"admin@jualanbaju.com",
+    	"Phone": "123456789",
+    	"Address": "Jl. Seokarno Hatta No.4 Balikpapan"
+	},
+	{
+		"id": 5,
+		"gambar": "product-images/Gambarkatalog10.jpg",
+		"name": "Baju Muslim Model 2",
+		"price": "34.000",
+		"ukuran": "L",
+		"warna": "Biru , putih , merah",
+		"email":"admin@jualanbaju.com",
+    	"Phone": "123456789",
+    	"Address": "Jl. Seokarno Hatta No.4 Balikpapan"
+	}
+	
+]
